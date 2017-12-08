@@ -1,4 +1,4 @@
-$(document).ready(function() {
-  // Place JavaScript code here...
 
+document.getElementById("alert-button").addEventListener("click", () => {
+    alert("hello!");
 });
